@@ -24,3 +24,6 @@ editButton.addEventListener("click", () => {
 });
 textArea.addEventListener("input", (e) => {
   const { value } = e.target;
+  main.innerHTML = marked(value);
+  updateLocalStorage();
+});
