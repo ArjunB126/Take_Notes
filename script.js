@@ -20,3 +20,5 @@ const updateLocalStorage = () => {
 <textarea class="${text ? "hidden" : ""}"></textarea>`;
 editButton.addEventListener("click", () => {
   main.classList.toggle("hidden");
+  textArea.classList.toggle("hidden");
+});
