@@ -27,3 +27,5 @@ textArea.addEventListener("input", (e) => {
   main.innerHTML = marked(value);
   updateLocalStorage();
 });
+document.body.appendChild(note);
+};
