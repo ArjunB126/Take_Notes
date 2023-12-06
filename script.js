@@ -18,3 +18,5 @@ const updateLocalStorage = () => {
 </div>
 <div class="main ${text ? "" : "hidden"}"></div>
 <textarea class="${text ? "hidden" : ""}"></textarea>`;
+editButton.addEventListener("click", () => {
+  main.classList.toggle("hidden");
