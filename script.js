@@ -29,3 +29,5 @@ textArea.addEventListener("input", (e) => {
 });
 document.body.appendChild(note);
 };
+
+addButton.addEventListener("click", () => addNewNote());
