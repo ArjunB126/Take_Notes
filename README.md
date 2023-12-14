@@ -6,7 +6,3 @@ Welcome to Awesome Note-Taker, a sleek and intuitive note-taking website designe
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
