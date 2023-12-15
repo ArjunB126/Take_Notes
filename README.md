@@ -25,3 +25,9 @@ Awesome Note-Taker is a simple yet powerful web application that allows users to
 ### Prerequisites
 
 - Ensure you have a modern web browser installed.
+
+  
+### Installation
+
+1. Clone the repository:
+2. Feal Free To Use 
