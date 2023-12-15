@@ -16,3 +16,4 @@ Awesome Note-Taker is a simple yet powerful web application that allows users to
 ## Features
 
 - **User-Friendly Interface:** Clean and intuitive design for a seamless user experience.
+- - **Responsive Design:** Works smoothly on various devices, ensuring accessibility anywhere.
